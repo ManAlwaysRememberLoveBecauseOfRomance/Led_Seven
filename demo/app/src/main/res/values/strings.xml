@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LED DEMO</string>
+    <string name="app_right">RIGHT</string>
+    <string name="app_left">LEFT</string>
+</resources>
